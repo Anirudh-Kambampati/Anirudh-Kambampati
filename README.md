@@ -1,31 +1,166 @@
-# 💫 About Me:
-Hey! I’m Anirudh 👨‍💻<br>A Computer Science undergrad exploring different areas of tech — from coding and core CS concepts to prompt engineering, DevOps, and no-code automation with n8n, along with modern AI workflows.<br><br>🧠 Curious about how software + systems work<br><br>🤖 Interested in AI, LLMs, DevOps, Prompt engineering and building no-code workflows & integrations using n8n<br><br>🔍 Always learning, exploring, and improving step by step<br><br>🚀 Still exploring… and honestly enjoying the process
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-kambampati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhkambampati@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-# 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Anirudh-Kambampati&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hey, I'm Anirudh Kambampati
 
-![](https://nirzak-streak-stats.vercel.app/?user=Anirudh-Kambampati&theme=nightowl&hide_border=false)<br/>
+<img src="./avatar.png" width="140" alt="avatar"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-Kambampati&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems.;Learning+one+thing+at+a+time.;Shipping+projects,+not+just+ideas.;Exploring+Software+Engineering,+AI+%26+DevOps.;Always+debugging+something." />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=1050&lines=%3E+Initializing...;%3E+Loading+developer+profile...;%3E+Software+Engineering+Student;%3E+Exploring+AI,+DevOps+%26+Full+Stack;%3E+System+ready." />
+<br><br>
 
 </div>
 
-# ✍️ Random Dev Quote
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+```yaml
+Name:           Anirudh Kambampati
+Location:       India 🇮🇳
+Education:      B.Tech Computer Science
+
+Interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - DevOps
+  - Open Source
+
+Currently:
+  - Building useful software
+  - Learning every day
+  - Solving DSA
+```
+
+---
+
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Anirudh-Kambampati">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirudh-Kambampati&theme=aura"
+    />
+  </a>
+
+  <a href="https://github.com/Anirudh-Kambampati">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirudh-Kambampati&theme=aura"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anirudh-Kambampati">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirudh-Kambampati&theme=aura"
+    />
+  </a>
+
+  <a href="https://github.com/Anirudh-Kambampati">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirudh-Kambampati&theme=aura&utcOffset=5.5"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anirudh-Kambampati">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirudh-Kambampati&theme=aura"
+    />
+  </a>
+</p>
+</div>
+
+<div align="center">
+
+---
+
+<div align="center">
+
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,express,fastapi,mysql,mongodb,docker,git,github,linux,vscode,figma,postman&perline=10"/>
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Anirudh-Kambampati&icon=3&color=6)](https://visitcount.itsvg.in)
+---
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/Anirudh-Kambampati/ResumeForge-Resume-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh-Kambampati&repo=ResumeForge-Resume-Analyzer&theme=aura&border_radius=10" />
+  </a>
+
+  <a href="https://github.com/Anirudh-Kambampati/RAG-study-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh-Kambampati&repo=RAG-study-assistant&theme=aura&border_radius=10" />
+  </a>
+</p>
+---
+
+<div align="center">
+
+## 🎧 Currently Playing
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r6nwo0m4g4ooktxbz4kwnf3it&count=1)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/anirudh-kambampati/anirudh-kambampati/snake-output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="mailto:anirudhkambampati@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp; &nbsp;
+<a href="https://linkedin.com/in/anirudh-kambampati">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/Anirudh-Kambampati">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Small improvements. Every day."*
+
+</div>
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+<img src="thank-you.png" width="320" alt="Thank you"/>
+
+</div>
+<!--Thanks for checking the source 👀
+-->
