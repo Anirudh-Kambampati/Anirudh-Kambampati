@@ -17,23 +17,29 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```yaml
-Name:           Anirudh Kambampati
-Location:       India 🇮🇳
-Education:      B.Tech Computer Science
+## 👨‍💻 About Me
 
-Interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - DevOps
-  - Open Source
+```toml
+name = "Anirudh Kambampati"
+role = "Software Engineering Student"
 
-Currently:
-  - Building useful software
-  - Learning every day
-  - Solving DSA
+currently = [
+  "Building practical software",
+  "Learning through building",
+  "Thinking and designing helpful products",
+  "Exploring my domains"
+]
+
+interests = [
+  "Backend Development",
+  "Artificial Intelligence",
+  "Developer Tools",
+  "Cloud Technologies",
+  "Automation"
+]
+
+philosophy = "Learn. Build. Improve. Repeat."
 ```
-
 ---
 
 <div align="center">
@@ -90,22 +96,10 @@ Currently:
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,express,fastapi,mysql,mongodb,docker,git,github,linux,vscode,figma,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,nodejs,express,fastapi,tailwind,mysql,mongodb,git,github,docker,linux,vercel,vscode,postman,figma,vite,npm,bash,notion&perline=9"/>
 
 </div>
 
----
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Anirudh-Kambampati/ResumeForge-Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh-Kambampati&repo=ResumeForge-Resume-Analyzer&theme=aura&border_radius=10" />
-  </a>
-
-  <a href="https://github.com/Anirudh-Kambampati/RAG-study-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh-Kambampati&repo=RAG-study-assistant&theme=aura&border_radius=10" />
-  </a>
-</p>
 ---
 
 <div align="center">
@@ -159,7 +153,7 @@ Currently:
 
 ### Thanks for stopping by!
 
-<img src="thank-you.png" width="320" alt="Thank you"/>
+<img src="ty.png" width="320" alt="Thank you"/>
 
 </div>
 <!--Thanks for checking the source 👀
