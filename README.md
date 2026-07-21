@@ -104,16 +104,6 @@ philosophy = "Learn. Build. Improve. Repeat."
 
 <div align="center">
 
-## 🎧 Currently Playing
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r6nwo0m4g4ooktxbz4kwnf3it&count=1)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/anirudh-kambampati/anirudh-kambampati/snake-output/snake.svg" alt="Snake animation"/>
